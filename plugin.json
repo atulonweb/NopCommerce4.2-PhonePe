@@ -1,0 +1,11 @@
+﻿  {
+  "Group": "Payment methods",
+  "FriendlyName": "PhonePe",
+  "SystemName": "Payments.PhonePe",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Atul Kumar",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PhonePe.dll",
+  "Description": "This plugin allows paying with PhonePe"
+}
